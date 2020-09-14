@@ -6205,9 +6205,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
-      "projectName": "BulkyBook.DataAccess",
-      "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj",
+      "projectName": "BulkyBookDataAccess",
+      "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj",
       "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\obj\\",
       "projectStyle": "PackageReference",
