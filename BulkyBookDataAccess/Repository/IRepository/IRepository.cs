@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace BulkyBookDataAccess.Data.Repository.IRepository
+namespace BulkyBookDataAccess.Repository.IRepository
 {
     public interface IRepository<T> where T : class
     {
@@ -26,6 +26,6 @@ namespace BulkyBookDataAccess.Data.Repository.IRepository
         void Add(T entity);
         void Remove(int id);
         void Remove(T entity);
-        void RemoveRagne(IEnumerable<T> entity); //remove complete range of entities
+        void RemoveRange(IEnumerable<T> entity); //remove complete range of entities
     }
 }
