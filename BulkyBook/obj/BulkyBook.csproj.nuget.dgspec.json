@@ -170,12 +170,12 @@
         }
       }
     },
-    "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj": {
+    "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj",
-        "projectName": "BulkyBookDataAccess",
-        "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
+        "projectName": "BulkyBook.DataAccess",
+        "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
         "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\obj\\",
         "projectStyle": "PackageReference",
@@ -299,8 +299,8 @@
               "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
                 "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
               },
-              "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj": {
-                "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj"
+              "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj"
               }
             }
           }
