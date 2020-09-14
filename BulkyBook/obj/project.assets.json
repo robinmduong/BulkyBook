@@ -2765,6 +2765,29 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "BulkyBook.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BulkyBook.Models": "1.0.0",
+          "BulkyBook.Utility": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.8",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.8",
+          "Microsoft.AspNetCore.Identity.UI": "3.1.8",
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "3.1.8",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.8"
+        },
+        "compile": {
+          "bin/placeholder/BulkyBook.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BulkyBook.DataAccess.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "BulkyBook.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2797,29 +2820,6 @@
         },
         "runtime": {
           "bin/placeholder/BulkyBook.Utility.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "BulkyBookDataAccess/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "BulkyBook.Models": "1.0.0",
-          "BulkyBook.Utility": "1.0.0",
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.8",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.8",
-          "Microsoft.AspNetCore.Identity.UI": "3.1.8",
-          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "3.1.8",
-          "Microsoft.EntityFrameworkCore.Relational": "3.1.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.8"
-        },
-        "compile": {
-          "bin/placeholder/BulkyBookDataAccess.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BulkyBookDataAccess.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -9018,6 +9018,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "BulkyBook.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../BulkyBookDataAccess/BulkyBook.DataAccess.csproj",
+      "msbuildProject": "../BulkyBookDataAccess/BulkyBook.DataAccess.csproj"
+    },
     "BulkyBook.Models/1.0.0": {
       "type": "project",
       "path": "../BulkyBook.Models/BulkyBook.Models.csproj",
@@ -9027,18 +9032,13 @@
       "type": "project",
       "path": "../BulkyBook.Utility/BulkyBook.Utility.csproj",
       "msbuildProject": "../BulkyBook.Utility/BulkyBook.Utility.csproj"
-    },
-    "BulkyBookDataAccess/1.0.0": {
-      "type": "project",
-      "path": "../BulkyBookDataAccess/BulkyBookDataAccess.csproj",
-      "msbuildProject": "../BulkyBookDataAccess/BulkyBookDataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BulkyBook.DataAccess >= 1.0.0",
       "BulkyBook.Models >= 1.0.0",
       "BulkyBook.Utility >= 1.0.0",
-      "BulkyBookDataAccess >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 3.1.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.8",
@@ -9077,8 +9077,8 @@
             "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
               "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
             },
-            "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj": {
-              "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBookDataAccess.csproj"
+            "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\robin\\OneDrive\\Desktop\\CSharp\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }
