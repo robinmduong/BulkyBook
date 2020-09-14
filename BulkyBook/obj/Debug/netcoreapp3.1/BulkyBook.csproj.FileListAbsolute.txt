@@ -111,9 +111,7 @@ C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBookDataAccess.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBookDataAccess.pdb
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\BulkyBook.pdb
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.deps.json
@@ -431,3 +429,5 @@ C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
