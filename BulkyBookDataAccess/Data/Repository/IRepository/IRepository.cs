@@ -17,7 +17,7 @@ namespace BulkyBookDataAccess.Data.Repository.IRepository
             string includeProperties = null
         );
 
-        T GetFirstOrdefault(
+        T GetFirstOrDefault(
             Expression<Func<T, bool>> filter = null,
             //No need for orderedBy because it'll retrieve 1 credit card only
             string includeProperties = null
