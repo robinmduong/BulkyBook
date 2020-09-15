@@ -431,3 +431,4 @@ C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\Dapper.dll
