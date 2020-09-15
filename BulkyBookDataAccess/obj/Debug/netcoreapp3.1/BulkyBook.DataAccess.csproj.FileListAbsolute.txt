@@ -263,8 +263,8 @@ C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\bin\Debug\n
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
