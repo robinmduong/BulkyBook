@@ -36,13 +36,11 @@ namespace BulkyBook.Areas.Admin.Controllers
             }
 
             //this is for edit
-
             category = _unitOfWork.Category.Get(id.GetValueOrDefault());
             if (category == null)
             {
                 return NotFound();
             }
-
             return View(category);
         }
 
