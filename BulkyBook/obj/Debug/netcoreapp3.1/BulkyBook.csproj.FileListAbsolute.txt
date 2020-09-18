@@ -451,10 +451,7 @@ C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
 C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
-C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Controllers\Upsert.cshtml.g.cs
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+C:\Users\robin\OneDrive\Desktop\CSharp\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
