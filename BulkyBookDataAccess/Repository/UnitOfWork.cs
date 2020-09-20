@@ -15,10 +15,17 @@ namespace BulkyBook.DataAccess.Repository
         {
             _db = db;
             Category = new CategoryRepository(_db); //this way, when you have unit of work, you'll be able to access the category repository
+            CoverType = new CoverTypeRepository(_db); //Step 6. - Configure UnitOfWork
+
+            //Don't forget to go to Tools > NuGet Pkg Manager > Console > 
+            //Set it to Default project: BulkyBook.DataAccess first. Type in add-migration addCoverTypeToDb
+            //once successful, type update-database and check SQL Server for successful update. dbo.CoverType is a new table under BulkyBook
+
             SP_Call = new SP_Call(_db);
         }
 
         public ICategoryRepository Category { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
 
         //ISP = I (interface) stored procedure)
         public ISP_Call SP_Call { get; private set; }

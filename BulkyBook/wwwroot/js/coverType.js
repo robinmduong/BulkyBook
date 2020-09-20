@@ -1,27 +1,27 @@
-﻿var dataTable;
+﻿var dataTable; //after you finish this file, go back to CoverTypeController and build out views
 
 $(document).ready(function () {
     loadDataTable();
 });
 
 //Make sure casing is correct
-//Make sure DataTable was imported in _Layout.cshtml
+//Make sure DataTable was imported in _Layout.cshtml; it's an external lib
 function loadDataTable() {
     dataTable = $('#tblData').DataTable({
         "ajax": {
-            "url": "/Admin/Category/GetAll"
+            "url": "/Admin/CoverType/GetAll"
         },
         "columns": [
-            { "data": "name", "width": "60%" }, //Inside Category.cs we had it named as "Name". Since we're camelCasing, we need to make this lowercase "name" here
+            { "data": "name", "width": "60%" },
             {
                 "data": "id",
                 "render": function (data) { //the data is the id
                     return `
                             <div class="text-center">
-                                <a href="/Admin/Category/Upsert/${data}" class="btn btn-success text-white" style="cursor:pointer">
+                                <a href="/Admin/CoverType/Upsert/${data}" class="btn btn-success text-white" style="cursor:pointer">
                                     <i class="fa fa-edit"></i>
                                 </a>
-                                <a onclick=Delete("/Admin/Category/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer">
+                                <a onclick=Delete("/Admin/CoverType/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer">
                                     <i class="fa fa-trash-alt"></i>
                                 </a>
                                 </div>
