@@ -16,6 +16,7 @@ namespace BulkyBook.DataAccess.Repository
             _db = db;
             Category = new CategoryRepository(_db); //this way, when you have unit of work, you'll be able to access the category repository
             CoverType = new CoverTypeRepository(_db); //Step 6. - Configure UnitOfWork
+            Product = new ProductRepository(_db);
 
             //Don't forget to go to Tools > NuGet Pkg Manager > Console > 
             //Set it to Default project: BulkyBook.DataAccess first. Type in add-migration addCoverTypeToDb
@@ -26,6 +27,7 @@ namespace BulkyBook.DataAccess.Repository
 
         public ICategoryRepository Category { get; private set; }
         public ICoverTypeRepository CoverType { get; private set; }
+        public IProductRepository Product { get; private set; }
 
         //ISP = I (interface) stored procedure)
         public ISP_Call SP_Call { get; private set; }
