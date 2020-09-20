@@ -10,6 +10,8 @@ namespace BulkyBook.DataAccess.Repository.IRepository
 
         ICoverTypeRepository CoverType { get; } //Step 5. - Configure IUnitOfWork. Next step is to configure UnitOfWork.
 
+        IProductRepository Product { get; }
+
         ISP_Call SP_Call { get; }
 
         void Save();

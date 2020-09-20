@@ -17,5 +17,6 @@ namespace BulkyBook.DataAccess.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<CoverType> CoverType { get; set; } //(Step 2) - connect to the database with this
         //Step 3 would be to configure our repository
+        public DbSet<Product> Products { get; set; } //After this, add-migration addProductToDb
     }
 }

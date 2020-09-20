@@ -1,3 +1,3 @@
 ﻿#BulkyBook Project
 
-BulkyBook presents a list of books and their details, including Title, Author, ISBN number, and Genre.
+BulkyBook presents a dynamic list of books with their details, including Title, Author, ISBN number, and Genre.
