@@ -54,6 +54,6 @@ namespace BulkyBook.Models
         public int CoverTypeId { get; set; }
 
         [ForeignKey("CoverTypeId")]
-        public CoverType Covertype { get; set; }
+        public CoverType CoverType { get; set; }
     }
 }

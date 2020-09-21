@@ -35,6 +35,7 @@
 
   <ItemGroup>
     <Folder Include="Repository\" />
+    <Folder Include="wwwroot\lib\images\products\" />
   </ItemGroup>
 
 </Project>
