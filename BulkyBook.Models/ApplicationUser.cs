@@ -18,5 +18,6 @@ namespace BulkyBook.Models
 
         [NotMapped]
         public string Role { get; set; }
+
     }
 }

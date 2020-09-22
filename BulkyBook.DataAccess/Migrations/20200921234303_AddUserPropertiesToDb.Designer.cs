@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BulkyBook.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200103233627_AddUserPropertiesToDb")]
+    [Migration("20200921234303_AddUserPropertiesToDb")]
     partial class AddUserPropertiesToDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
